@@ -1,0 +1,26 @@
+{
+  "name": "nodeassignments",
+  "version": "1.0.0",
+  "description": "Assignments on the Node express tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgberou/NodeAssignments.git"
+  },
+  "author": "Argie Berou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgberou/NodeAssignments/issues"
+  },
+  "homepage": "https://github.com/rgberou/NodeAssignments#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
